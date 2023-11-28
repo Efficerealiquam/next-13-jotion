@@ -22,6 +22,11 @@ Second, run the development server for Convex:
 npx convex dev
 ```
 
+## Required Credentials:
+- In order to start Convex (https://www.convex.dev/) you would need the necessary credentials for its execution.
+- The credentials for https://dashboard.clerk.com/ that are used to manage login and user creation would be needed.
+- You need your account at https://dashboard.edgestore.dev and obtain the credentials to manage the image repository.
+
 You can start editing the page by modifying `app/page.tsx`. The page auto-updates as you edit the file.
 
 This project uses [`next/font`](https://nextjs.org/docs/basic-features/font-optimization) to automatically optimize and load Inter, a custom Google Font.
